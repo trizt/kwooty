@@ -1,5 +1,11 @@
 Kwooty, a friendly newsgroup binary downloader for KDE 5 (kdelibs4support).
 
+Version 1.1.1:
+--------------
+
+- Build against KDE 5 frameworks / QT 5.15.1
+
+
 Version 1.1.0:
 --------------
 

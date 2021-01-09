@@ -39,7 +39,7 @@ int main(int argc, char **argv)
 
     K4AboutData aboutData("kwooty",
                           "",
-                          ki18n("Kwooty"), "1.1.0",
+                          ki18n("Kwooty"), "1.1.1",
                           ki18n("Kwooty is a friendly nzb usenet binary downloader.\n It also supports automatic file repairing and archive extraction."),
                           K4AboutData::License_GPL,
                           ki18n("Copyright (c) 2012-2015 Xavier Lefage"),
