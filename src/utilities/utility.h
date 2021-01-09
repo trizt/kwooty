@@ -37,6 +37,7 @@ Q_ENUMS(SaveError)
 Q_ENUMS(ItemTarget)
 Q_ENUMS(ProcessPriority)
 Q_ENUMS(PreferencesPage)
+Q_NAMESPACE
 
 // treeView columns :
 static const int FILE_NAME_COLUMN = 0;
